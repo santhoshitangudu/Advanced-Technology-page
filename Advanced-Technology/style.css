@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: "roboto";
+    font-weight: 200;
+    box-sizing: border-box;
+
+}
+.card{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+
+}
+.Technologies-Cover-bg{
+    background-color: #fff;
+    padding: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.heading{
+    color: #5752ab;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: "Bree Serif";
+}
+.para{
+    color: #323f4b;
+    font-size: 15px;
+
+}
+.button1{
+    background-color: #5752ab;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px 20px;
+    margin-right: 10px;
+}
+.button2{
+    color: #5752ab;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
